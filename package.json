@@ -1,0 +1,10 @@
+{
+  "name": "fireburst",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "author": "MagnunAVF <magnunavf@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
